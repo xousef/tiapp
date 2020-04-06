@@ -3,7 +3,7 @@
 		"drawable": "YoutubeIcon",
 		"submenu": "",
 		"tabs": [{
-				"title": "Channel videos",
+				"title": "hey bas - check it & text me",
 				"image": "sharp_home_black_48pt",
 				"provider": "youtube",
 				"arguments": [
