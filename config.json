@@ -1,9 +1,9 @@
 [{
-		"title": "Videos",
+		"title": "Video Library",
 		"drawable": "YoutubeIcon",
 		"submenu": "",
 		"tabs": [{
-				"title": "hey bas - check it & text me",
+				"title": "Videos",
 				"image": "sharp_home_black_48pt",
 				"provider": "youtube",
 				"arguments": [
